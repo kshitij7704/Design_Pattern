@@ -24,15 +24,15 @@ The key components of the Abstract Factory pattern include:
 ## UML Diagram
 
 ```plaintext
-        +-------------------+
+        +--------------------+
         |   AbstractFactory  |
-        +-------------------+
+        +--------------------+
         | + createProductA() |
         | + createProductB() |
-        +---------+---------+
+        +---------+----------+
                   |
-        +---------+---------+
-        |                   |
+        +---------+----------+
+        |                    |
 +--------------------+   +--------------------+
 | ConcreteFactoryA   |   | ConcreteFactoryB   |
 +--------------------+   +--------------------+
