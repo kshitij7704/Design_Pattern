@@ -19,16 +19,23 @@ Design patterns can be classified into three main categories:
    - Builder
    - Prototype
 
-2. **Structural Patterns**: These patterns focus on the composition of classes or objects to form larger structures. They help ensure that if one part of a system changes, the entire system doesn't need to do the same. Examples include:
+2. **Structural Patterns**: These patterns focus on the composition of classes or objects to form larger structures. They help ensure that if one part of a system changes, the entire system doesn't need to do the same. Examples include: 
+   - Adapter
+   - Bridge
    - Decorator
    - Composite
    - Proxy
    - Facade
 
-3. **Behavioral Patterns**: These patterns are concerned with algorithms and the assignment of responsibilities between objects. They help define how objects communicate and interact with one another. Examples include:
+4. **Behavioral Patterns**: These patterns are concerned with algorithms and the assignment of responsibilities between objects. They help define how objects communicate and interact with one another. Examples include:
+   - Chain of Responsibility
+   - Iterator
+   - Mediator
+   - Memento
    - Observer
    - Strategy
    - State
+   - Template
 
 ## Uses
 
