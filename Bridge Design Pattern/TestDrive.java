@@ -8,6 +8,7 @@ public class TestDrive {
 
         sonyRemote.on();
         sonyRemote.off();
+        
         phillipsRemote.on();
         phillipsRemote.off();
     }
