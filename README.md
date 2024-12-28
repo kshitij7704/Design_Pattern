@@ -13,29 +13,32 @@ A design pattern is a description or template for how to solve a problem that ca
 Design patterns can be classified into three main categories:
 
 1. **Creational Patterns**: These patterns deal with object creation mechanisms, aiming to create objects in a manner suitable to the situation. Examples include:
-   - Singleton
-   - Factory Method
    - Abstract Factory
    - Builder
+   - Factory Method
    - Prototype
+   - Singleton
 
 2. **Structural Patterns**: These patterns focus on the composition of classes or objects to form larger structures. They help ensure that if one part of a system changes, the entire system doesn't need to do the same. Examples include: 
    - Adapter
    - Bridge
-   - Decorator
    - Composite
-   - Proxy
+   - Decorator
    - Facade
+   - Flyweight
+   - Proxy
 
 4. **Behavioral Patterns**: These patterns are concerned with algorithms and the assignment of responsibilities between objects. They help define how objects communicate and interact with one another. Examples include:
    - Chain of Responsibility
+   - Command
    - Iterator
    - Mediator
    - Memento
    - Observer
-   - Strategy
    - State
-   - Template
+   - Strategy
+   - Template Method
+   - Visitor
 
 ## Uses
 
